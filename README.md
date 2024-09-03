@@ -7,6 +7,14 @@ This repository provides end-to-end sample modules and reusable terraform module
 
 * [terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli) cli on your PATH in version >= 1.4 (or according to the version constraint in the respective module).
 
+## Terraform deployment
+The Terraform deployment creates the project, Apigee X runtime, environments, groups, and public load balancer with HTTPS certificate.
+
+Click to here to open this repository in Google Cloud Shell, along with a tutorial to guide you through the terraform deployment steps:
+
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/tyayers/apigee-x-quickstart&cloudshell_git_branch=master&cloudshell_workspace=.&cloudshell_tutorial=docs/tf-tutorial.md)
+
+
 ## End-To-End Samples
 
 Sample modules are intended to demonstrate the most common network topologies for Apigee. The sample modules don't make any assumptions about pre-exsting topologies and create all the required resources from scratch. They can be used as a starting point for your own projects or be edited to work with your existing resources (e.g to reference an existing VPC instead of creating a separate one).
