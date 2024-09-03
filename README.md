@@ -1,5 +1,3 @@
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/mohamadfayez/terraform-modules&cloudshell_git_branch=main&cloudshell_workspace=.&cloudshell_tutorial=README.md)
-
 # Apigee Terraform Modules
 
 This repository provides end-to-end sample modules and reusable terraform modules for Apigee.
@@ -8,6 +6,10 @@ This repository provides end-to-end sample modules and reusable terraform module
 
 * [terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli) cli on your PATH in version >= 1.4 (or according to the version constraint in the respective module).
 
+## Setup Apigee X
+Click the following link and go inside Google Cloud CLI and rund your commands.
+
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/mohamadfayez/terraform-modules&cloudshell_git_branch=main&cloudshell_workspace=.&cloudshell_tutorial=/samples/x-nb-psc-xlb/README.md)
 
 ## End-To-End Samples
 
