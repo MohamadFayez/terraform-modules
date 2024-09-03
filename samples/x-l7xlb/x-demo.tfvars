@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-ax_region = "europe-west1"
+ax_region = "me-central2"
 
 apigee_instances = {
   euw1-instance = {
-    region       = "europe-west1"
+    region       = "me-central2"
     ip_range     = "10.0.0.0/22"
     environments = ["test1", "test2"]
   }
@@ -55,7 +55,7 @@ exposure_subnets = [
   {
     name               = "apigee-exposure"
     ip_cidr_range      = "10.100.0.0/24"
-    region             = "europe-west1"
+    region             = "me-central2"
     secondary_ip_range = null
   }
 ]
