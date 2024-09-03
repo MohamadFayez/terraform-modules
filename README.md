@@ -12,7 +12,7 @@ The Terraform deployment creates the project, Apigee X runtime, environments, gr
 
 Click to here to open this repository in Google Cloud Shell, along with a tutorial to guide you through the terraform deployment steps:
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=[https://github.com/tyayers/apigee-x-quickstart](https://github.com/MohamadFayez/terraform-modules)&cloudshell_git_branch=main&cloudshell_workspace=.&cloudshell_tutorial=README.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/mohamadfayez/terraform-modules&cloudshell_git_branch=main&cloudshell_workspace=.&cloudshell_tutorial=README.md)
 
 
 ## End-To-End Samples
